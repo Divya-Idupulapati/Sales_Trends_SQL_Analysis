@@ -115,8 +115,7 @@ This dashboard provided AtliQ Hardware's executive management with:
 
 ## 👩‍💻 Author
 
-**Divya Idupulapati**  
-Master’s Student – Data Analytics and Information Systems  
+**Divya Idupulapati**   
 📍 San Marcos, TX  
 📧 [idupulapatidivya@gmail.com]  
 🔗 [www.linkedin.com/in/divyaidupulapati]  
