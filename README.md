@@ -120,6 +120,4 @@ This dashboard provided AtliQ Hardware's executive management with:
 📧 [idupulapatidivya@gmail.com]  
 🔗 [www.linkedin.com/in/divyaidupulapati]  
 
----
 
-> 📎 *For access to SQL scripts and Power BI dashboards, explore the `/SQL` and `/Dashboard` folders in this repo.*
