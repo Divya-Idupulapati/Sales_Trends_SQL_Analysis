@@ -101,6 +101,9 @@ This analysis helped AtliQ Hardware:
 ## 👩‍💻 Author
 
 **Divya Idupulapati**
+
 📍 San Marcos, TX
+
 📧 [[idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)]
+
 🔗 [www.linkedin.com/in/divyaidupulapati](https://www.linkedin.com/in/divyaidupulapati)
