@@ -81,8 +81,6 @@ AtliQ Hardware was experiencing rapid growth but lacked a unified view of sales 
 ## Author  
 
 **Divya Idupulapati**  
-📍 San Marcos, TX  
-📧 [idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)  
-🔗 [www.linkedin.com/in/divyaidupulapati](https://www.linkedin.com/in/divyaidupulapati)
+idupulapatidivya07@gmail.com
 
 ---
