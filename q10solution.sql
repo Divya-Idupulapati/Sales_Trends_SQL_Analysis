@@ -14,6 +14,7 @@ WITH ranked_products AS (
     WHERE fs.fiscal_year = 2021
     GROUP BY dp.division, dp.product_code, dp.product
 )
+    
 
 SELECT *
 FROM ranked_products
