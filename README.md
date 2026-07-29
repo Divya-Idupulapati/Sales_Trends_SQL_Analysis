@@ -1,7 +1,6 @@
 # Sales Insights & Analytics Dashboard  
 **End-to-End Sales Analysis** | SQL • Power BI • Sales Strategy • BI Reporting  
 ---
-
 ## Project Summary  
 Developed a comprehensive sales analytics solution for **AtliQ Hardware**, a multi-regional electronics company. The project transformed fragmented sales data into actionable insights to support executive decision-making, optimize product performance, and identify growth opportunities. Demonstrates skills in **data modeling, KPI analysis, dashboard creation**, and **business intelligence reporting**, aligned with the responsibilities of a Data Analyst.
 
