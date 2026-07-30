@@ -20,7 +20,6 @@ AtliQ Hardware was experiencing rapid growth but lacked a unified view of sales 
 - Evaluate the **impact of discount strategies** on profit margins  
 - Enable **data-driven decision-making** through interactive dashboards  
 - Build a **scalable and repeatable data analytics framework**
-
 ---
 
 ## Tools & Technologies  
