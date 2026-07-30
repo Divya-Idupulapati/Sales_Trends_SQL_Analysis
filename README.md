@@ -1,6 +1,7 @@
 # Sales Insights & Analytics Dashboard  
 
-**End-to-End Sales Analysis** | SQL • Power BI • Sales Strategy • BI Reporting  
+**End-to-End Sales Analysis** | SQL • Power BI • Sales Strategy • BI Reporting 
+
 ---
 
 ## Project Summary  
